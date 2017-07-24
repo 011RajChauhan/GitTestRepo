@@ -5,3 +5,4 @@ change from local
 change again
 checking for merge conflicts
 adding one more line
+adding again to see how to merge conflicts
