@@ -6,3 +6,4 @@ change again
 checking for merge conflicts
 adding one more line
 adding my line of conflict in local
+adding again to see how to merge conflicts
