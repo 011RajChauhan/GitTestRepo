@@ -4,3 +4,4 @@ change one from desktop
 change from local
 change again
 checking for merge conflicts
+adding one more line
