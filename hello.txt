@@ -15,4 +15,4 @@ one more line added in git
 changing this in local again
 
 and changing it in git
-
+one more change to local latest
