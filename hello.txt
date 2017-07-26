@@ -2,8 +2,10 @@ changes from client
 change from local.
 change one from desktop
 change from local
+line added in git
 change again
 checking for merge conflicts
 adding one more line
 adding my line of conflict in local
 adding again to see how to merge conflicts
+one more line added in git
