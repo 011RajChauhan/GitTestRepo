@@ -3,7 +3,10 @@ change from local.
 change one from desktop
 change from local
 change again
+adding one more line from VSCode
 checking for merge conflicts
-adding one more line
+adding one more two modified from VSCode
 adding my line of conflict in local
 adding again to see how to merge conflicts
+added line VSCode
+
