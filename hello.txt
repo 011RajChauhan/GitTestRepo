@@ -11,4 +11,4 @@ adding my line of conflict in local
 adding again to see how to merge conflicts
 added line VSCode
 one more line added in git
->>>>>>> ad976a6f884a86dd9a260aa6a309ba677e9e638c
+changing this in local again
