@@ -2,6 +2,7 @@ changes from client
 change from local.
 change one from desktop
 change from local
+line added in git
 change again
 adding one more line from VSCode
 checking for merge conflicts
@@ -9,4 +10,5 @@ adding one more two modified from VSCode
 adding my line of conflict in local
 adding again to see how to merge conflicts
 added line VSCode
-
+one more line added in git
+>>>>>>> ad976a6f884a86dd9a260aa6a309ba677e9e638c
