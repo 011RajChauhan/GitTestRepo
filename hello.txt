@@ -7,3 +7,4 @@ third line from remote
 fourth line from local
 hello remote change
 first
+first remote
