@@ -6,3 +6,4 @@ second line from local
 third line from remote
 fourth line from local
 hello remote change
+first
