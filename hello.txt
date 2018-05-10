@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 revert this commit done from local.
 first commit from remote.
 second commit from remote.
 
+=======
+changing file
+hello changed from rajan
+adding first line from local
+adding first line from remote
+second line from local
+third line from remote
+fourth line from local
+hello remote change
+first
+first remote
+>>>>>>> parent of a12a06b... remove this commit done from local to remote
